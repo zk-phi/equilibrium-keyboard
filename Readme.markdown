@@ -22,7 +22,7 @@
 - LED SK6812mini x52
 - 2pin タクトスイッチ x2
 - Pro Micro
-- M2 ねじ 20mm x12, 10mm x2, 8mm x2, 6mm x2
+- M2 ねじ 20mm x12, 10mm x3, 8mm x3, 6mm x3
 - M2 ナット x18
 - 2mm 厚以上のゴムクッション x4
 
