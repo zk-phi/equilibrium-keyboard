@@ -10,7 +10,7 @@
 
 一般にコンパクトとされるキーボードと比較してもかなりコンパクトなデザインになっています。
 
-![comparison](images/comparison.jpeg)
+![comparison](images/comparison.png)
 
 足プレートを組み合わせることで、 Cherry Profile のキーキャップなどと特に相性のいい、 5 度の傾斜をつけることができます。
 
