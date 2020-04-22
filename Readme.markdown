@@ -22,6 +22,8 @@
 
 # 必要なもの
 
+![parts](images/parts.png)
+
 キット
 - トップフレーム 2mm x 2, 3mm x 1
 - トッププレート上 (3mm)
