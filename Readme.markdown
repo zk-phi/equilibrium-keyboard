@@ -2,7 +2,7 @@
 
 ![eq0](images/eq0.jpeg)
 
-![eq1](images/eq1.png)
+![eq1](images/eq1.jpeg)
 
 ![eq2](images/eq2.png)
 
@@ -52,7 +52,9 @@
 
 https://github.com/zk-phi/qmk_firmware に私の使っているキーマップがアップロードしてあります。
 
-: make equilibrium:phi:avrdude
+```terminal
+make equilibrium:phi:avrdude
+```
 
 よしなに clone して使ってください
 
