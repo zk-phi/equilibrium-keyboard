@@ -1,0 +1,9 @@
+*.net
+*-cache.lib
+*.stl
+*.kicad_pcb-bak
+*.bak
+gerber-elecrow/
+gerber/
+gerber.zip
+gerber-elecrow.zip
