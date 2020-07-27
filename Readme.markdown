@@ -27,6 +27,7 @@
 ![parts](images/parts.png)
 
 キット
+- 基板
 - トップフレーム 2mm x 2, 3mm x 1
 - トッププレート上 (3mm)
 - トッププレート下 (2mm)
